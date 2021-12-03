@@ -1,0 +1,27 @@
+{
+    "templates" : [
+        { 
+            "name" : "Bundles 2.0 Template",
+            "element" : "template",
+            "options" : { 
+                "live" : true
+            }
+        } 
+    ],
+    "templates" : [
+        { 
+            "name" : "React Admin",
+            "element" : "index",
+            "options" : { 
+                "live" : true
+            }
+        } 
+    ],
+    "skins" : [
+        {
+            "name" : "Bundles 2.0 Sample Skin",
+            "element" : "skin",
+            "options" : {} 
+        }
+    ]
+}
