@@ -6,16 +6,14 @@
             "options" : { 
                 "live" : true
             }
-        } 
-    ],
-    "templates" : [
+        },
         { 
-            "name" : "React Admin",
-            "element" : "index.html",
+            "name" : "React Admin 1.0",
+            "element" : "index",
             "options" : { 
                 "live" : true
             }
-        } 
+        }  
     ],
     "skins" : [
         {
