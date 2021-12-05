@@ -1,14 +1,7 @@
 {
     "templates" : [
         { 
-            "name" : "Bundles 2.1 Template",
-            "element" : "template",
-            "options" : { 
-                "live" : true
-            }
-        },
-        { 
-            "name" : "React Admin 1.2",
+            "name" : "React Admin 1.0",
             "element" : "index",
             "options" : { 
                 "live" : true
