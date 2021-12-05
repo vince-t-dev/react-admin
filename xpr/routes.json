@@ -1,0 +1,11 @@
+[
+    {
+        "method" : "GET",
+        "route" : "/users_json",
+        "script" : {
+            "path" : "/ajax/users_json",
+            "options" : {}
+        },
+        "element" : "/ajax/users_json"
+    }
+]
