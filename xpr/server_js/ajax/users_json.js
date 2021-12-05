@@ -1,8 +1,8 @@
-exports.process = function(context, options) {
-    let api = require("XprObjects/Api");
-    let request = require("XprObjects/WebRequest");
+var api = require("XprObjects/Api");
+var request = require("XprObjects/WebRequest");
 
-    let users = api.call({
+exports.process = function(context, options) {
+    var users = api.call({
         method: "GET",
         uri: "/users/",
         params: {
