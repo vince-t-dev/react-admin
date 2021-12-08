@@ -1,5 +1,14 @@
-//this is a "simple echo" JS script to demonstrate binding scripts to elements and datasources.
-
 exports.process = function(context, options) {
-    return "Yo "+options["message"];
+    var api = require("XprObjects/Api");
+    var request = require("XprObjects/WebRequest");
+
+    var users = api.call({
+        method: "GET",
+        uri: "/users/",
+        params: {
+            "per_page": 10
+        }
+    });
+
+    return users;
 }
