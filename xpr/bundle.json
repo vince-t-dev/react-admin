@@ -4,7 +4,7 @@
             "name" : "React Admin 1.0",
             "element" : "index",
             "options" : { 
-                "live" : true
+                "xpr" : {{{XprJson xpr}}}
             }
         }  
     ],
