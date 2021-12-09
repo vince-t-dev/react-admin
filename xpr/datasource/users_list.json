@@ -5,7 +5,7 @@
         "params" : {
             "per_page" : 10,
             {{#if xpr.request.urlParams.q}}
-            "Title__q" : {{xpr.request.urlParams.q}},
+            "q_Title_Description" : {{xpr.request.urlParams.q}},
             {{/if}}
             {{#if xpr.request.urlParams.page}}
             "page" : {{xpr.request.urlParams.page}},
