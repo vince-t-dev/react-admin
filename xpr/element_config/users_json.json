@@ -2,7 +2,8 @@
     "datasources": [
         {
             "path" : "users_list",
-            "name" : "Users"
+            "name" : "Users",
+            "options" : {{{XprJson options as_attribute="true"}}}
         }
     ]
 }
