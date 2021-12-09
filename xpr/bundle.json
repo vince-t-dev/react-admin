@@ -3,9 +3,7 @@
         { 
             "name" : "React Admin 1.0",
             "element" : "index",
-            "options" : { 
-                "xpr" : {{{XprJson xpr}}}
-            }
+            "options" : {}
         }  
     ],
     "skins" : [
