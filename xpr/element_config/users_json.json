@@ -4,7 +4,7 @@
             "path" : "users_list",
             "name" : "Users",
             "options" : {
-                xpr: {{{XprJson xpr as_attribute="true"}}}
+                xpr: {{{xpr}}}
             }
         }
     ]
