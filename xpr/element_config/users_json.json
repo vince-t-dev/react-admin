@@ -3,11 +3,9 @@
         {
             "path" : "users_list",
             "name" : "Users",
-            {{#if options.live}}
-            "options" : {}
-            {{else}}
-            "options" : { "ListingSectionId" : 7 }
-            {{/if}}
+            "options" : {
+                "xpr": {{{XprJson xpr}}}
+            }
         }
     ]
 }
