@@ -3,9 +3,7 @@
         {
             "path" : "users_list",
             "name" : "Users",
-            "options" : {
-                xpr: {{{xpr}}}
-            }
+            "options" : {{{XprJson options}}}
         }
     ]
 }
