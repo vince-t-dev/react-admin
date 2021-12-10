@@ -1,9 +1,9 @@
 {
     "adapter" : "XprApiAdapter",
     "config" : {
-        "uri" : "/users/",
+        "uri" : "/articles/",
         "params" : {
-            "per_page" : 10
+            "SectionId__eq" : "{{XprOption key=options.ListingSectionId default=7}}"
         }
     }
 }
