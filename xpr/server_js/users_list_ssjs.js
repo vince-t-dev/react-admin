@@ -3,7 +3,8 @@
 exports.process = function(context, options) {
     //let api = require("/xpr/XprObjects/XprApi");
     //let request = require("/xpr/src/includes/classes/XprObjects/XprRequest");
-    let request = XprRequest();
+    //let request = XprRequest();
+    var api = XprApi;
     /*let users_params = { per_page: 10 };
     if (request.urlParams.q) users_params.q_FirstName_LastName_Email = request.urlParams.q;
     if (request.urlParams.page) users_params.page = request.urlParams.page;
@@ -12,5 +13,5 @@ exports.process = function(context, options) {
         "params" : users_params
     });*/
 
-    return request;
+    return api;
 }
