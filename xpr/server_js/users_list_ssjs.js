@@ -4,13 +4,13 @@ exports.process = function(context, options) {
     let api = require("/xpr/XprObjects/Api");
     let request = require("/xpr/XprObjects/WebRequest");
     
-    let users_params = { per_page: 10 };
+    /*let users_params = { per_page: 10 };
     if (request.urlParams.q) users_params.q_FirstName_LastName_Email = request.urlParams.q;
     if (request.urlParams.page) users_params.page = request.urlParams.page;
     let users = api.call({
         "uri" : "/users/",
         "params" : users_params
-    });
+    });*/
 
-    return users;
+    return request;
 }
