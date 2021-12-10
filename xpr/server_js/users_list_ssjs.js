@@ -2,7 +2,7 @@
 const xpr_objects = require("/xpr/request");
 
 exports.process = function(context, options) {
-    var api = XprApi();
+    var api = xpr_objects.Api();
     let request = xpr_objects.XprRequest();
     
     let users_params = { per_page: 10 };
