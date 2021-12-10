@@ -1,5 +1,7 @@
+const request = require("/xpr/XprRequest");
+
 function process(data) {
-    const request = require("/xpr/request");
+    
     return request;
 }
 
