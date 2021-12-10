@@ -13,5 +13,5 @@ exports.process = function(context, options) {
         "params" : users_params
     });*/ 
 
-    return api;
+    return request;
 }
