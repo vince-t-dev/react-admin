@@ -3,7 +3,7 @@
 exports.process = function(context, options) {
     //let api = require("/xpr/XprObjects/XprApi");
     //let request = require("/xpr/src/includes/classes/XprObjects/XprRequest");
-    var request = require("/xpr/XprRequest");
+    var request = require("/xpr/request");
     //var api = XprApi();
     /*let users_params = { per_page: 10 };
     if (request.urlParams.q) users_params.q_FirstName_LastName_Email = request.urlParams.q;
