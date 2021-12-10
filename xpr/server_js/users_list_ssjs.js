@@ -2,8 +2,8 @@
 
 exports.process = function(context, options) {
     //let api = require("/xpr/XprObjects/XprApi");
-    let request = require("/xpr/src/includes/classes/Xpr2/Boson/StreamProcessing/XprObjects/XprRequest");
-    
+    //let request = require("/xpr/src/includes/classes/XprObjects/XprRequest");
+    let request = XprRequest();
     /*let users_params = { per_page: 10 };
     if (request.urlParams.q) users_params.q_FirstName_LastName_Email = request.urlParams.q;
     if (request.urlParams.page) users_params.page = request.urlParams.page;
