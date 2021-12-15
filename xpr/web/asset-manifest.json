@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/__xpr__/pub_engine/react-admin/web/static/css/main.f3ac0c0f.chunk.css",
-    "main.js": "/__xpr__/pub_engine/react-admin/web/static/js/main.ed211de6.chunk.js",
-    "main.js.map": "/__xpr__/pub_engine/react-admin/web/static/js/main.ed211de6.chunk.js.map",
+    "main.css": "/__xpr__/pub_engine/react-admin/web/static/css/main.1af60fcb.chunk.css",
+    "main.js": "/__xpr__/pub_engine/react-admin/web/static/js/main.1408e4df.chunk.js",
+    "main.js.map": "/__xpr__/pub_engine/react-admin/web/static/js/main.1408e4df.chunk.js.map",
     "runtime-main.js": "/__xpr__/pub_engine/react-admin/web/static/js/runtime-main.4a0e9409.js",
     "runtime-main.js.map": "/__xpr__/pub_engine/react-admin/web/static/js/runtime-main.4a0e9409.js.map",
     "static/css/2.29b2f728.chunk.css": "/__xpr__/pub_engine/react-admin/web/static/css/2.29b2f728.chunk.css",
@@ -10,13 +10,13 @@
     "static/js/2.e796a040.chunk.js.map": "/__xpr__/pub_engine/react-admin/web/static/js/2.e796a040.chunk.js.map",
     "index.html": "/__xpr__/pub_engine/react-admin/web/index.html",
     "static/css/2.29b2f728.chunk.css.map": "/__xpr__/pub_engine/react-admin/web/static/css/2.29b2f728.chunk.css.map",
-    "static/css/main.f3ac0c0f.chunk.css.map": "/__xpr__/pub_engine/react-admin/web/static/css/main.f3ac0c0f.chunk.css.map",
+    "static/css/main.1af60fcb.chunk.css.map": "/__xpr__/pub_engine/react-admin/web/static/css/main.1af60fcb.chunk.css.map",
     "static/js/2.e796a040.chunk.js.LICENSE.txt": "/__xpr__/pub_engine/react-admin/web/static/js/2.e796a040.chunk.js.LICENSE.txt",
     "static/media/404.59d1f9fd.svg": "/__xpr__/pub_engine/react-admin/web/static/media/404.59d1f9fd.svg",
     "static/media/500.d508258f.svg": "/__xpr__/pub_engine/react-admin/web/static/media/500.d508258f.svg",
+    "static/media/volt.scss": "/__xpr__/pub_engine/react-admin/web/static/media/dinnextltpro-regular.070e0f7a.otf",
     "static/media/bootstrap-5-logo.98585727.svg": "/__xpr__/pub_engine/react-admin/web/static/media/bootstrap-5-logo.98585727.svg",
     "static/media/canada.0c7f14f9.svg": "/__xpr__/pub_engine/react-admin/web/static/media/canada.0c7f14f9.svg",
-    "static/media/volt.scss": "/__xpr__/pub_engine/react-admin/web/static/media/dinnextltpro-regular.070e0f7a.otf",
     "static/media/all.css": "/__xpr__/pub_engine/react-admin/web/static/media/fa-solid-900.eeccf4f6.woff",
     "static/media/france.40c79af5.svg": "/__xpr__/pub_engine/react-admin/web/static/media/france.40c79af5.svg",
     "static/media/germany.cf16b1b6.svg": "/__xpr__/pub_engine/react-admin/web/static/media/germany.cf16b1b6.svg",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.4a0e9409.js",
     "static/css/2.29b2f728.chunk.css",
     "static/js/2.e796a040.chunk.js",
-    "static/css/main.f3ac0c0f.chunk.css",
-    "static/js/main.ed211de6.chunk.js"
+    "static/css/main.1af60fcb.chunk.css",
+    "static/js/main.1408e4df.chunk.js"
   ]
 }
